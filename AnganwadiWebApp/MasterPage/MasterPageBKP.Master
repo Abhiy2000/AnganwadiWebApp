@@ -1,0 +1,318 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageBKP.Master.cs"
+    Inherits="ProjectManagement.MasterPage.MasterPageBKP" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="X-UA-Compatible" content="IE=9" />
+    <meta http-equiv="X-UA-Compatible" content="IE=11" />
+    <title>|| Anganwadi Web App ||</title>
+    <link href="../CSS/chosen.css" rel="stylesheet" type="text/css" />
+    <%--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>--%>
+    <script src="<%# Page.ResolveClientUrl("~/Scripts/jquery-3.3.1.min.js") %>" type="text/javascript"></script>
+    <script src="../CSS/chosen.jquery.js" type="text/javascript"></script>
+    <link href="~/CSS/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="../Images/favicon-16x16.png" />
+    <link href="../CSS/main.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        /*#LblGrdHead
+        {
+            Font-Size:18px important;
+        }*/
+        .top
+        {
+            background-color: #0075BE;
+            height: 77px;
+            width: 100%;
+            z-index: 904;
+            position: fixed;
+            box-shadow: 2px 0 3px rgba(0,0,0,.5);
+            min-width: 320px;
+        }
+        
+        a.al-logo
+        {
+            color: #209e91;
+            display: block;
+            font-size: 22px;
+            font-family: Roboto,sans-serif;
+            white-space: nowrap;
+            line-height: 65px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        
+        a.al-logo:hover
+        {
+            text-decoration: none;
+        }
+        
+        .TMFLHeader
+        {
+            color: #ffffff;
+            display: block;
+            font-size: 22px;
+            font-family: Roboto,sans-serif;
+            white-space: nowrap;
+            text-decoration: none;
+            font-weight: bolder;
+        }
+        
+        .navigation
+        {
+            width: 100%;
+        }
+        
+        .mainmenu, .submenu
+        {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .mainmenu a
+        {
+            display: block;
+            background-color: #004571;
+            text-decoration: none;
+            padding-top: 15px;
+            padding-bottom: 10px;
+            padding-left: 14px;
+            color: #f7f7f7;
+            font-weight: bold;
+        }
+        
+        .mainmenu a:hover
+        {
+            background-color: #00263e;
+            text-decoration: none;
+        }
+        
+        .mainmenu li:hover .submenu
+        {
+            display: block;
+            max-height: 300px;
+            font-weight: normal;
+            text-decoration: none;
+        }
+        
+        .submenu a
+        {
+            background-color: #004571;
+            font-weight: normal;
+        }
+        
+        .submenu a:hover
+        {
+            background-color: #00263e;
+            font-weight: normal;
+            text-decoration: none;
+        }
+        
+        .submenu
+        {
+            overflow: auto;
+            max-height: 0;
+            -webkit-transition: all 0.5s ease-out;
+            font-weight: normal;
+            height: auto;
+        }
+        #target
+        {
+            position: absolute;
+            right: 150px;
+            top: 80px;
+        }
+        #target1
+        {
+            position: absolute;
+            right: 150px;
+            top: 45px;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+        <div class="top">
+            <table style="width: 100%">
+                <tr>
+                    <td style="width: 100%; background-color: #215867">
+                        <center>
+                            <div style="top: -1px; left: 0px; width: 100%; height: 80%; position: relative">
+                                <%--<a href="../HomePage/FrmDashboard.aspx">--%>
+                                <asp:HyperLink ID="hrefDash" NavigateUrl="../HomePage/FrmDashboard.aspx" runat="server">
+                                    <asp:Image ID="ImageLogoBox" runat="server" Width="100%" Height="103px" ImageUrl="~/Images/banner_op3.jpg" />
+                                </asp:HyperLink>
+                                <%-- </a>--%>
+                                <div id="target1">
+                                    <table>
+                                        <tr>
+                                            <td>
+                                                <b>
+                                                    <asp:Label ID="Label4" runat="server" CssClass="">Last Login  </asp:Label></b>|
+                                            </td>
+                                            <td>
+                                                <asp:Label ID="lblLastLogIn" runat="server" Text=""></asp:Label>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <b>
+                                                    <asp:Label ID="Label2" runat="server" CssClass="">Last Logout  </asp:Label></b>|
+                                            </td>
+                                            <td>
+                                                <asp:Label ID="lblLastLogOut" runat="server" Text=""></asp:Label>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div id="target">
+                                    <table>
+                                        <tr>
+                                            <td width="50px">
+                                                <b>
+                                                    <asp:Label ID="Label1" runat="server" CssClass="">Welcome, </asp:Label></b>
+                                            </td>
+                                            <td>
+                                                <asp:Label ID="lblUserName" runat="server" CssClass="" Text=""></asp:Label>
+                                            </td>
+                                            <td width="10px">
+                                                |
+                                            </td>
+                                            <td>
+                                                <b>
+                                                    <asp:Label ID="Label3" runat="server" CssClass=""> Designation, </asp:Label></b>
+                                            </td>
+                                            <td>
+                                                <asp:Label ID="lblDesigName" runat="server" CssClass=""></asp:Label>
+                                            </td>
+                                            <td width="10px">
+                                                |
+                                            </td>
+                                            <td>
+                                                <b>
+                                                    <asp:LinkButton ID="LnkSignout" runat="server" Text="Signout" ForeColor="" OnClick="LnkSignout_Click"></asp:LinkButton></b>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </center>
+                    </td>
+                    <td style="width: 2800px">
+                        <table style="width: 100%">
+                            <%--<tr align="center" style="height: 43px;">
+                                <td colspan="2" class="TMFLHeader" align="center" style="padding-left: 188px;top: -1px; left: 0px; position: absolute;margin-top:5px">
+                                    <img src="../Images/icds-logo-banner.png" height="69.5px" width="900px" alt=""/>
+                                    <asp:Label ID="lblTataHeader" runat="server" Text="Anganwadi Web Application"></asp:Label>
+                                </td>
+                            </tr>--%>
+                            <%--<tr>
+                                <td>
+                                    <span style="margin-left: 10px"><b style="color: #b8d3d0">&nbsp;&nbsp; Welcome, </b>
+                                        <asp:Label ID="lblUserName" runat="server" Text="" ForeColor="#ffffff"></asp:Label>
+                                        <b style="color: #b8d3d0">Department, </b>
+                                        <asp:Label ID="lblDeptName" runat="server" Text="" ForeColor="#ffffff"></asp:Label>
+                                        <b style="color: #b8d3d0">Designation, </b>
+                                        <asp:Label ID="lblDesigName" runat="server" Text="" ForeColor="#ffffff"></asp:Label>
+                                    </span>
+                                </td>
+                                <td align="right">
+                                    <b style="color: #b8d3d0">Last Login, </b>
+                                    <asp:Label ID="lblLastLogOut" runat="server" Text="" ForeColor="#ffffff"></asp:Label>
+                                    <asp:Label ID="Label2" runat="server" Text="|" ForeColor="#ffffff"></asp:Label>
+                                    <asp:LinkButton ID="LinkButton1" runat="server" Text="Home" ForeColor="#ffffff" OnClick="LinkButton1_Click"></asp:LinkButton>
+                                    <asp:Label ID="Label1" runat="server" Text="|" ForeColor="#ffffff"></asp:Label>
+                                    <asp:LinkButton ID="LnkSignout" runat="server" Text="Signout" ForeColor="#ffffff"
+                                        OnClick="LnkSignout_Click"></asp:LinkButton>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </td>
+                            </tr>--%>
+                        </table>
+                    </td>
+                    <%--<td style="" align="right">
+                        <div style="top: 1px">
+                            <asp:Image ID="Image1" runat="server" Width="85px" ImageUrl="~/Images/right_top.gif"
+                                Height="75px" Style="margin-left: 5px;" />
+                        </div>
+                    </td>--%>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <table style="width: 100%; position: fixed; margin-left: -2px">
+                <tr>
+                    <td style="width: 14%; background-color: #004571; box-shadow: 2px 0 3px rgba(0,0,0,.5);">
+                        <div>
+                        </div>
+                        <asp:Panel ID="Panel1" runat="server" Height="2000px" ScrollBars="Auto" Width="100%"
+                            Style="margin-top: 100px;">
+                            <asp:Literal ID="lit" runat="server">
+                            </asp:Literal>
+                        </asp:Panel>
+                    </td>
+                    <td style="padding: 105px 25px 25px 25px" align="left" valign="top">
+                        <%--background-color: #F0F3F4;--%>
+                        <asp:UpdatePanel runat="server" ID="UpdatePanel1" UpdateMode="Always">
+                            <ContentTemplate>
+                                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                </asp:ContentPlaceHolder>
+                            </ContentTemplate>
+                        </asp:UpdatePanel>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    </form>
+</body>
+<%--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>--%>
+<%--<script type="text/javascript">
+    if (document.layers) {
+        document.captureEvents(Event.MOUSEDOWN);
+        $(document).mousedown(function () {
+            return false;
+        });
+    }
+    else {
+
+        $(document).mouseup(function (e) {
+            if (e != null && e.type == "mouseup") {
+                if (e.which == 2 || e.which == 3) {
+
+                    return false;
+                }
+            }
+
+        });
+    }
+
+    $(document).contextmenu(function () {
+        return false;
+    });
+    document.onkeypress = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+            return false;
+        }
+    }
+    document.onmousedown = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+            return false;
+        }
+    }
+    document.onkeydown = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+            return false;
+        }
+    }
+</script>--%>
+</html>

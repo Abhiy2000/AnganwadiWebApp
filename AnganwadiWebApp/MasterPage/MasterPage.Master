@@ -1,0 +1,209 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs"
+    Inherits="ANCL_MarketWeb.MasterPage.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta name="viewport" content="width=device-width" />
+    <%-- <link rel="shortcut icon" type="image/x-icon" href="../Images/favicon.ico" />--%>
+    <title id="Title" runat="server"></title><%--Amravati Muncipal Corporation--%>
+    <link href="../CSS/chosen.css" rel="stylesheet" type="text/css" />
+    <%--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>--%>
+    <script src="<%# Page.ResolveClientUrl("~/Scripts/jquery-3.3.1.min.js") %>" type="text/javascript"></script>
+    <script src="../CSS/chosen.jquery.js" type="text/javascript"></script>
+    <link href="~/CSS/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="../Images/favicon-16x16.png" />
+    <link href="../CSS/main.css" rel="stylesheet" type="text/css" />
+    <link href="~/CSS/animate.css" rel="stylesheet" />
+    <link href="~/CSS/style.css" rel="stylesheet" />
+    <link href="~/CSS/menu.css" rel="stylesheet" />
+    <%--<script src="../Scripts/jquery-1.4.1.js" type="text/javascript"></script>--%>
+    <script src="../Scripts/jquery-3.6.0.js"></script>
+    <script src="~/Scripts/bootstrap.min.js" type="text/javascript"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .top {
+            background-color: #00978A;
+            height: 75px;
+            width: 100%;
+            z-index: 904;
+            position: fixed;
+            box-shadow: 2px 0 3px rgba(0,0,0,.5);
+            min-width: 320px;
+        }
+
+        .contactmain {
+            position: fixed;
+            z-index: 1001;
+            top: 0px;
+            left: 0px;
+            vertical-align: central;
+            text-align: center;
+            width: 95%;
+            height: 410px;
+            opacity: 0.7;
+            filter: alpha(opacity=70);
+            <%--background-color: Gray;
+            --%> background-image: none;
+            background-repeat: no-repeat;
+            display: block;
+            <%--border: solid 1px black;
+            --%> margin-top: 70px;
+            margin-left: 40px;
+            padding: 200px 0 0 0;
+        }
+
+        body {
+            color: Black !important;
+        }
+
+        .SetHeaderOnTop {
+            position: fixed;
+            background: rebeccapurple;
+            width: 100%;
+            top: 0;
+            z-index: 999;
+            scroll-behavior: smooth;
+            -webkit-transition: all 2s;
+            -moz-transition: all 2s;
+            -ms-transition: all 2s;
+            -o-transition: all 2s;
+            transition: all 2s;
+        }
+
+        .ResetHeaderOnPosition {
+            -webkit-transition: all 2s;
+            -moz-transition: all 2s;
+            -ms-transition: all 2s;
+            -o-transition: all 2s;
+            transition: all 2s;
+        }
+
+        #target
+        {
+            position: absolute;
+            right: 180px;
+            top: 80px;
+        }
+        #target1
+        {
+            position: absolute;
+            right: 180px;
+            top: 45px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server" AsyncPostBackTimeout="360000">
+        </asp:ScriptManager>
+        <div class="top">
+            <table style="width: 100%">
+                <tr>
+                    <td style="width: 100%; background-color: #215867">
+                        <center>
+                            <div style="top: -1px; left: 0px; width: 100%; height: 80%; position: relative">
+                                <asp:HyperLink ID="hrefDash" NavigateUrl="../HomePage/FrmDashboard.aspx" runat="server">
+                                    <asp:Image ID="ImageLogoBox" runat="server" Width="100%" Height="103px" ImageUrl="~/Images/banner_op3.jpg" />
+                                </asp:HyperLink>
+                                <div id="target1">
+                                    <table>
+                                        <tr>
+                                            <td>
+                                                <b>
+                                                    <asp:Label ID="Label4" runat="server" CssClass="">Last Login  </asp:Label></b>|
+                                            </td>
+                                            <td>
+                                                <asp:Label ID="lblLastLogIn" runat="server" Text=""></asp:Label>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <b>
+                                                    <asp:Label ID="Label2" runat="server" CssClass="">Last Logout  </asp:Label></b>|
+                                            </td>
+                                            <td>
+                                                <asp:Label ID="lblLastLogOut" runat="server" Text=""></asp:Label>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div id="target">
+                                    <table>
+                                        <tr>
+                                            <td width="50px">
+                                                <b>
+                                                    <asp:Label ID="Label1" runat="server" CssClass="">Welcome, </asp:Label></b>
+                                            </td>
+                                            <td>
+                                                <asp:Label ID="lblUserName" runat="server" CssClass="" Text=""></asp:Label>
+                                            </td>
+                                            <td width="10px">|
+                                            </td>
+                                            <td>
+                                                <b>
+                                                    <asp:Label ID="Label3" runat="server" CssClass=""> Designation, </asp:Label></b>
+                                            </td>
+                                            <td>
+                                                <asp:Label ID="lblDesigName" runat="server" CssClass=""></asp:Label>
+                                            </td>
+                                            <td width="10px">
+                                                |
+                                            </td>
+                                            <td>
+                                                <b>
+                                                    <asp:LinkButton ID="LnkSignout" runat="server" Text="Signout" ForeColor="" OnClick="LnkSignout_Click"></asp:LinkButton></b>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </center>
+                    </td>
+            </table>
+
+            <div class="navbar">
+                <div class="navbar-inner">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+                                <span class="fa fa-navicon"></span>
+                            </button>
+                        </div>
+                        <div class="nav-collapse navbar-responsive-collapse">
+                            <asp:Literal runat="server" ID="lit"></asp:Literal>
+                            <%-- <ul class="nav">
+                            <li class="active">Home </li>
+                        </ul>--%>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="gray-bg" style="min-height: 657px;">
+                <asp:UpdatePanel runat="server" ID="UpdatePanel1" UpdateMode="Always">
+                    <ContentTemplate>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                        <asp:UpdateProgress ID="UpdateProgress2" DynamicLayout="true" AssociatedUpdatePanelID="UpdatePanel1"
+                            runat="server">
+                            <ProgressTemplate>
+                                <div class="contactmain" style="z-index: 1199999999; background: #feffff; margin: 0px; width: 100%; height: 100%">
+                                    <img id="LoaderImg1" src="~/Images/loading1.gif" runat="server" alt="" />
+                                </div>
+                            </ProgressTemplate>
+                        </asp:UpdateProgress>
+                    </ContentTemplate>
+                </asp:UpdatePanel>
+            </div>
+            <div aria-hidden="true" role="status" id="UpdateProgress1" style="display: none;">
+                <div style="background-color: #000; filter: alpha(opacity=30); opacity: 0.30; width: 100%; top: 0px; left: 0px; position: fixed; height: 100%;">
+                </div>
+                <div style="margin: auto; font-family: Trebuchet MS; filter: alpha(opacity=100); opacity: 1; font-size: small; vertical-align: middle; top: 50%; position: fixed; right: 50%; color: #275721; text-align: center; background-color: Transparent; height: 100px;">
+                    <img runat="server" src="~/Images/loading1.gif" alt="Loading...please wait" style="height: 96px; width: 99px;" />
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
