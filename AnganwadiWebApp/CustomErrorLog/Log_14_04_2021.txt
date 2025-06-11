@@ -1,0 +1,4 @@
+14-04-2021 18:21:58 	 Page Name : /Transaction/FrmSevikaMasterList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 16163
+Session ID: 29 Serial number: 61426
+14-04-2021 18:21:58 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

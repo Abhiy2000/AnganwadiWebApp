@@ -1,0 +1,27 @@
+16-04-2021 10:56:17 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at "ANGANWADI.AOUP_SEVIKA_INS", line 434
+ORA-01422: exact fetch returns more than requested number of rows
+ORA-06512: at line 1
+16-04-2021 10:56:17 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16-04-2021 11:11:13 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at "ANGANWADI.AOUP_SEVIKA_INS", line 434
+ORA-01422: exact fetch returns more than requested number of rows
+ORA-06512: at line 1
+16-04-2021 11:11:14 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16-04-2021 11:35:20 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at "ANGANWADI.AOUP_SEVIKA_INS", line 434
+ORA-01422: exact fetch returns more than requested number of rows
+ORA-06512: at line 1
+16-04-2021 11:35:20 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16-04-2021 11:44:30 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03135: connection lost contact
+Process ID: 6570
+Session ID: 36 Serial number: 9717
+16-04-2021 11:44:30 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16-04-2021 13:35:15 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 8172
+Session ID: 347 Serial number: 57193
+16-04-2021 13:35:15 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16-04-2021 18:04:02 	 Page Name : /Transaction/FrmLICDocApproveList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 6167
+Session ID: 33 Serial number: 11670
+16-04-2021 18:04:02 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

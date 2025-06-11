@@ -1,0 +1,71 @@
+18-11-2020 13:52:58 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 6992
+Session ID: 4 Serial number: 21
+
+18-11-2020 13:52:58 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 13:52:59 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+18-11-2020 13:52:59 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 14:46:47 	 Page Name : /Transaction/FrmLICHoApproveList.aspx |  Error Message : Invalid length for a Base-64 char array or string.
+18-11-2020 14:46:47 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 15:41:49 	 Page Name : /Transaction/FrmLICHoApproveList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 11724
+Session ID: 192 Serial number: 11
+
+18-11-2020 15:41:49 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 15:41:50 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+18-11-2020 15:41:50 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 15:47:25 	 Page Name : /Transaction/FrmLICHoApproveList.aspx |  Error Message : Invalid length for a Base-64 char array or string.
+18-11-2020 15:47:25 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 15:47:25 	 Page Name : /Transaction/FrmLICHoApproveList.aspx |  Error Message : Invalid length for a Base-64 char array or string.
+18-11-2020 15:47:25 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 15:57:43 	 Page Name : /Transaction/FrmLICHoApproveList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 8068
+Session ID: 128 Serial number: 51
+
+18-11-2020 15:57:43 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 16:06:40 	 Page Name : /Transaction/FrmLICHoApproveList.aspx |  Error Message : Invalid length for a Base-64 char array or string.
+18-11-2020 16:06:40 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 16:06:40 	 Page Name : /Transaction/FrmLICHoApproveList.aspx |  Error Message : Invalid length for a Base-64 char array or string.
+18-11-2020 16:06:40 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 18:46:51 	 Page Name : /Transaction/FrmLICApprovalList.aspx |  Error Message : Unknown server tag 'cc1:UpdatePanelAnimationExtender'.
+18-11-2020 18:46:51 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 18:46:52 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+18-11-2020 18:46:52 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 18:52:06 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 1152
+Session ID: 193 Serial number: 60
+
+18-11-2020 18:52:06 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 18:53:34 	 Page Name : /Transaction/FrmLICApprovalList.aspx |  Error Message : Unknown server tag 'cc1:UpdatePanelAnimationExtender'.
+18-11-2020 18:53:34 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 19:09:59 	 Page Name : /Transaction/FrmLICApprovalList.aspx |  Error Message : Unknown server tag 'cc1:UpdatePanelAnimationExtender'.
+18-11-2020 19:09:59 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 19:09:59 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+18-11-2020 19:09:59 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 19:12:33 	 Page Name : /Transaction/FrmLICApprovalList.aspx |  Error Message : Unknown server tag 'cc1:UpdatePanelAnimationExtender'.
+18-11-2020 19:12:33 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 19:12:33 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+18-11-2020 19:12:33 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 19:16:12 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 7688
+Session ID: 35 Serial number: 43
+
+18-11-2020 19:16:12 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 19:33:10 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 4764
+Session ID: 67 Serial number: 117
+
+18-11-2020 19:33:10 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 19:34:30 	 Page Name : /Transaction/FrmLICApprovalList.aspx |  Error Message : d:\Babita\Anganwadi\Development\AnganwadiWebApp\AnganwadiWebApp\Transaction\FrmLICApprovalList.aspx(118): error CS1061: 'ASP.transaction_frmlicapprovallist_aspx' does not contain a definition for 'rbtApproved_Changed' and no extension method 'rbtApproved_Changed' accepting a first argument of type 'ASP.transaction_frmlicapprovallist_aspx' could be found (are you missing a using directive or an assembly reference?)
+18-11-2020 19:34:30 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 19:46:56 	 Page Name : /Transaction/FrmLICApprovalList.aspx |  Error Message : d:\Babita\Anganwadi\Development\AnganwadiWebApp\AnganwadiWebApp\Transaction\FrmLICApprovalList.aspx(133): error CS1061: 'ASP.transaction_frmlicapprovallist_aspx' does not contain a definition for 'BtnSubmit_Click' and no extension method 'BtnSubmit_Click' accepting a first argument of type 'ASP.transaction_frmlicapprovallist_aspx' could be found (are you missing a using directive or an assembly reference?)
+18-11-2020 19:46:56 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 19:48:51 	 Page Name : /Transaction/FrmLICApprovalList.aspx |  Error Message : Object reference not set to an instance of an object.
+18-11-2020 19:48:51 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 20:50:48 	 Page Name : /master/FrmPromotionMst.aspx |  Error Message : Object reference not set to an instance of an object.
+18-11-2020 20:50:48 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18-11-2020 21:13:49 	 Page Name : /Transaction/FrmLICApproval.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 12368
+Session ID: 192 Serial number: 90
+
+18-11-2020 21:13:49 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+13-11-2020 12:35:58 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+13-11-2020 12:35:58 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-11-2020 12:57:13 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+13-11-2020 12:57:13 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-11-2020 13:04:16 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+13-11-2020 13:04:16 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-11-2020 13:12:55 	 Page Name : /Transaction/FrmLICDocUploadList.aspx |  Error Message : System.Web.UI.WebControls.DataControlFieldCollection must have items of type 'System.Web.UI.WebControls.DataControlField'. 'asp:FileUpload' is of type 'System.Web.UI.WebControls.FileUpload'.
+13-11-2020 13:12:55 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-11-2020 13:12:56 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+13-11-2020 13:12:56 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-11-2020 13:18:20 	 Page Name : /Transaction/FrmLICDocUploadList.aspx |  Error Message : d:\Babita\Anganwadi\Development\AnganwadiWebApp\AnganwadiWebApp\Transaction\FrmLICDocUploadList.aspx(135): error CS1061: 'ASP.transaction_frmlicdocuploadlist_aspx' does not contain a definition for 'btnSearch_Click' and no extension method 'btnSearch_Click' accepting a first argument of type 'ASP.transaction_frmlicdocuploadlist_aspx' could be found (are you missing a using directive or an assembly reference?)
+13-11-2020 13:18:20 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-11-2020 13:19:38 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+13-11-2020 13:19:38 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-11-2020 13:22:45 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+13-11-2020 13:22:45 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-11-2020 13:32:10 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+13-11-2020 13:32:10 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-11-2020 14:04:41 	 Page Name : /Transaction/FrmLICDocApproveList.aspx |  Error Message : The server tag is not well formed.
+13-11-2020 14:04:41 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-11-2020 14:04:41 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+13-11-2020 14:04:41 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

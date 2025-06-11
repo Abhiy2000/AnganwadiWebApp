@@ -1,0 +1,19 @@
+28-12-2020 12:59:07 	 Page Name : /Transaction/FrmLICPaymentList.aspx |  Error Message : A field or property with the name 'Amount' was not found on the selected data source.
+28-12-2020 12:59:07 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+28-12-2020 17:10:49 	 Page Name : /Transaction/FrmLICPaymentList.aspx |  Error Message : Object reference not set to an instance of an object.
+28-12-2020 17:10:49 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+28-12-2020 17:10:50 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+28-12-2020 17:10:50 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+28-12-2020 17:15:50 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 16924
+Session ID: 190 Serial number: 7611
+
+28-12-2020 17:15:50 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+28-12-2020 17:46:48 	 Page Name : /Transaction/FrmLICPaymentMst.aspx |  Error Message : Column 'AccountNo' does not belong to table .
+28-12-2020 17:46:48 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+28-12-2020 18:28:31 	 Page Name : /Transaction/FrmLICPaymentMst.aspx |  Error Message : There is no row at position 1.
+28-12-2020 18:28:31 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+28-12-2020 18:40:32 	 Page Name : /Transaction/FrmLICPaymentMst.aspx |  Error Message : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Delete'.
+28-12-2020 18:40:32 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+28-12-2020 18:42:36 	 Page Name : /Transaction/FrmLICPaymentMst.aspx |  Error Message : Object reference not set to an instance of an object.
+28-12-2020 18:42:36 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

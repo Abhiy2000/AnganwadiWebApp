@@ -1,0 +1,5 @@
+22-03-2021 13:36:44 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : ORA-06550: line 1, column 7:
+PLS-00306: wrong number or types of arguments in call to 'AOUP_LICSEVIKA_INS'
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+22-03-2021 13:36:44 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

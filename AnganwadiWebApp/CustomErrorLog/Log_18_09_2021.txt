@@ -1,0 +1,4 @@
+18-09-2021 19:22:44 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03135: connection lost contact
+Process ID: 27802
+Session ID: 34 Serial number: 39743
+18-09-2021 19:22:44 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

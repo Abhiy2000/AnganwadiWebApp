@@ -1,0 +1,33 @@
+12-11-2020 11:49:12 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : d:\Babita\Anganwadi\Development\AnganwadiWebApp\AnganwadiWebApp\Transaction\FrmLICSevika.aspx(360): error CS0123: No overload for 'BtnUpload_Click' matches delegate 'System.EventHandler'
+12-11-2020 11:49:12 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-11-2020 11:49:13 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+12-11-2020 11:49:13 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-11-2020 12:03:30 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 23232
+Session ID: 193 Serial number: 112
+
+12-11-2020 12:03:30 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-11-2020 12:04:14 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : The server tag is not well formed.
+12-11-2020 12:04:14 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-11-2020 13:04:50 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : d:\Babita\Anganwadi\Development\AnganwadiWebApp\AnganwadiWebApp\Transaction\FrmLICSevika.aspx(370): error CS0123: No overload for 'BtnUpload_Click' matches delegate 'System.EventHandler'
+12-11-2020 13:04:50 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-11-2020 13:04:50 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+12-11-2020 13:04:50 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-11-2020 13:08:25 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : Object reference not set to an instance of an object.
+12-11-2020 13:08:25 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-11-2020 13:10:53 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : Control with ID 'FileUploadDoc' being registered through RegisterAsyncPostBackControl or RegisterPostBackControl must implement either INamingContainer, IPostBackDataHandler, or IPostBackEventHandler.
+12-11-2020 13:10:53 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-11-2020 13:18:43 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : Object reference not set to an instance of an object.
+12-11-2020 13:18:43 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-11-2020 13:24:18 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 11744
+Session ID: 34 Serial number: 925
+
+12-11-2020 13:24:18 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-11-2020 13:32:12 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 18096
+Session ID: 65 Serial number: 422
+
+12-11-2020 13:32:12 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-11-2020 13:54:10 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : Object reference not set to an instance of an object.
+12-11-2020 13:54:10 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

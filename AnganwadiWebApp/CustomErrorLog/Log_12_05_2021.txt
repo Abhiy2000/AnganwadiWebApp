@@ -1,0 +1,2 @@
+12-05-2021 14:08:54 	 Page Name : /Transaction/FrmLICDPOApproveList.aspx |  Error Message : Unable to cast object of type 'Oracle.DataAccess.Types.OracleDecimal' to type 'System.IConvertible'.
+12-05-2021 14:08:54 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

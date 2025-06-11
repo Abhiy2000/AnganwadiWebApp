@@ -1,0 +1,57 @@
+20-11-2020 12:58:41 	 Page Name : /Transaction/FrmLICApproveMst.aspx |  Error Message : d:\Babita\Anganwadi\Development\AnganwadiWebApp\AnganwadiWebApp\Transaction\FrmLICApproveMst.aspx(347): error CS1061: 'ASP.transaction_frmlicapprovemst_aspx' does not contain a definition for 'LinkSerchBankBranch_OnClick' and no extension method 'LinkSerchBankBranch_OnClick' accepting a first argument of type 'ASP.transaction_frmlicapprovemst_aspx' could be found (are you missing a using directive or an assembly reference?)
+20-11-2020 12:58:41 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 12:58:42 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+20-11-2020 12:58:42 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 12:59:36 	 Page Name : /Transaction/FrmLICApproveRef.aspx |  Error Message : The file '/Transaction/FrmLICApproveRef.aspx' does not exist.
+20-11-2020 12:59:36 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 13:00:31 	 Page Name : /Transaction/FrmLICApproveMst.aspx |  Error Message : d:\Babita\Anganwadi\Development\AnganwadiWebApp\AnganwadiWebApp\Transaction\FrmLICApproveMst.aspx(534): error CS1061: 'ASP.transaction_frmlicapprovemst_aspx' does not contain a definition for 'btnYes_Click' and no extension method 'btnYes_Click' accepting a first argument of type 'ASP.transaction_frmlicapprovemst_aspx' could be found (are you missing a using directive or an assembly reference?)
+20-11-2020 13:00:31 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 13:21:54 	 Page Name : /Transaction/FrmLICApproveMst.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 7756
+Session ID: 161 Serial number: 1328
+
+20-11-2020 13:21:54 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 13:45:02 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 10136
+Session ID: 4 Serial number: 263
+
+20-11-2020 13:45:02 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 17:01:03 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+20-11-2020 17:01:03 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 17:05:08 	 Page Name : /Transaction/FrmLICApproveMst.aspx |  Error Message : CommandText property has not been initialized.
+20-11-2020 17:05:08 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 17:10:36 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 17:10:36 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 17:10:55 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 17:10:55 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 17:10:56 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 17:10:56 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 17:29:54 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 9656
+Session ID: 192 Serial number: 771
+
+20-11-2020 17:29:54 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 17:33:57 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 17:33:57 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 19:21:52 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 19:21:53 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 19:24:43 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 19:24:43 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 19:24:51 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 19:24:51 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 19:25:02 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 19:25:02 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 19:25:17 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 19:25:17 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 19:26:36 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 19:26:36 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 19:27:08 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 19:27:08 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 19:27:35 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 19:27:35 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 19:29:00 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 19:29:00 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 19:29:04 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 19:29:04 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20-11-2020 19:29:41 	 Page Name : /Images/defaultpreview.jpg |  Error Message : File does not exist.
+20-11-2020 19:29:41 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

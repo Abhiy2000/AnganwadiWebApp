@@ -1,0 +1,10 @@
+08-06-2025 13:28:26 	 Page Name : /HomePage/FrmDashboard.aspx |  Error Message : Cannot find column [parentid].
+08-06-2025 13:28:26 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-06-2025 13:34:40 	 Page Name : /HomePage/FrmDashboard.aspx |  Error Message : Cannot find column [ParentId].
+08-06-2025 13:34:40 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-06-2025 14:06:39 	 Page Name : /HomePage/FrmHomePage.aspx |  Error Message : The file '/HomePage/FrmHomePage.aspx' does not exist.
+08-06-2025 14:06:39 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-06-2025 15:00:15 	 Page Name : /HomePage/FrmDashboard.aspx |  Error Message : c:\Users\ABHISHEK\Downloads\AnganwadiWebApp\AnganwadiWebApp\AnganwadiWebApp\MasterPage\MasterPage.Master(111): error CS1061: 'ASP.masterpage_masterpage_master' does not contain a definition for 'btnSave_Click' and no extension method 'btnSave_Click' accepting a first argument of type 'ASP.masterpage_masterpage_master' could be found (are you missing a using directive or an assembly reference?)
+08-06-2025 15:00:15 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-06-2025 15:02:36 	 Page Name : /HomePage/FrmHomePage.aspx |  Error Message : The file '/HomePage/FrmHomePage.aspx' does not exist.
+08-06-2025 15:02:36 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

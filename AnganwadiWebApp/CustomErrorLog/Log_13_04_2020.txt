@@ -1,0 +1,5 @@
+13-04-2020 15:28:55 	 Page Name : /Transaction/FrmBillGenerationMst.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 50316
+Session ID: 6 Serial number: 2447
+
+13-04-2020 15:28:55 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

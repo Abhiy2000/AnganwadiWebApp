@@ -1,0 +1,16 @@
+10-11-2020 16:56:01 	 Page Name : /Transaction/FrmSevikaMasterList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 16352
+Session ID: 33 Serial number: 21
+
+10-11-2020 16:56:01 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10-11-2020 17:26:25 	 Page Name : /favicon.ico |  Error Message : File does not exist.
+10-11-2020 17:26:25 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10-11-2020 17:37:00 	 Page Name : /Transaction/FrmLICSevikaList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 3008
+Session ID: 129 Serial number: 31
+
+10-11-2020 17:37:00 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10-11-2020 20:09:14 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : d:\Babita\Anganwadi\Development\AnganwadiWebApp\AnganwadiWebApp\Transaction\FrmLICSevika.aspx(23): error CS0103: The name 'dummybtn' does not exist in the current context
+10-11-2020 20:09:14 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10-11-2020 20:10:09 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : d:\Babita\Anganwadi\Development\AnganwadiWebApp\AnganwadiWebApp\Transaction\FrmLICSevika.aspx(23): error CS0103: The name 'dummybtn' does not exist in the current context
+10-11-2020 20:10:09 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

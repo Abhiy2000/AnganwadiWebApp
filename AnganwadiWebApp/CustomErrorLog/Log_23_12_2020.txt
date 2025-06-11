@@ -1,0 +1,10 @@
+23-12-2020 11:52:54 	 Page Name : /Transaction/FrmLICDocApproveList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 20444
+Session ID: 222 Serial number: 5967
+
+23-12-2020 11:52:54 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+23-12-2020 16:22:54 	 Page Name : /Transaction/FrmLICDocApproveList.aspx |  Error Message : ORA-03113: end-of-file on communication channel
+Process ID: 10132
+Session ID: 7 Serial number: 958
+
+23-12-2020 16:22:54 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

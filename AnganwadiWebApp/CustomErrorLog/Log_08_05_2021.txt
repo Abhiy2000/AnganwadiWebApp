@@ -1,0 +1,35 @@
+08-05-2021 16:02:15 	 Page Name : /Transaction/FrmLICDPOApproveList.aspx |  Error Message : Unable to cast object of type 'Oracle.DataAccess.Types.OracleDecimal' to type 'System.IConvertible'.
+08-05-2021 16:02:15 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 16:34:52 	 Page Name : /Transaction/FrmLICDPOApproveList.aspx |  Error Message : Unable to cast object of type 'Oracle.DataAccess.Types.OracleDecimal' to type 'System.IConvertible'.
+08-05-2021 16:34:52 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 16:38:24 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : There is not enough space on the disk.
+
+08-05-2021 16:38:24 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 16:45:25 	 Page Name : /Transaction/FrmLICDocUploadRef.aspx |  Error Message : There is not enough space on the disk.
+
+08-05-2021 16:45:25 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 17:02:43 	 Page Name : /Transaction/FrmLICDocUploadList.aspx |  Error Message : f:\Babita\AnganwadiWebApp\AnganwadiWebApp\Transaction\FrmLICDocUploadList.aspx(154): error CS1061: 'ASP.transaction_frmlicdocuploadlist_aspx' does not contain a definition for 'BtnExternal_Click' and no extension method 'BtnExternal_Click' accepting a first argument of type 'ASP.transaction_frmlicdocuploadlist_aspx' could be found (are you missing a using directive or an assembly reference?)
+08-05-2021 17:02:43 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 17:10:28 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : There is not enough space on the disk.
+
+08-05-2021 17:10:28 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 17:12:14 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : Object reference not set to an instance of an object.
+08-05-2021 17:12:14 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 17:13:23 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : There is not enough space on the disk.
+
+08-05-2021 17:13:23 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 17:20:24 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : There is not enough space on the disk.
+
+08-05-2021 17:20:24 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 17:35:46 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : There is not enough space on the disk.
+
+08-05-2021 17:35:46 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 17:38:18 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : There is not enough space on the disk.
+
+08-05-2021 17:38:18 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 17:42:30 	 Page Name : /Transaction/FrmLICDocUploadList.aspx |  Error Message : Object reference not set to an instance of an object.
+08-05-2021 17:42:30 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 17:42:41 	 Page Name : /Transaction/FrmLICDocUploadList.aspx |  Error Message : Object reference not set to an instance of an object.
+08-05-2021 17:42:41 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+08-05-2021 17:43:17 	 Page Name : /Transaction/FrmLICDocUploadList.aspx |  Error Message : Object reference not set to an instance of an object.
+08-05-2021 17:43:17 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

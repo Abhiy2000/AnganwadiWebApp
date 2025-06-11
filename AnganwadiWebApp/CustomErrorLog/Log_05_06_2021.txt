@@ -1,0 +1,6 @@
+05-06-2021 12:58:39 	 Page Name : /Transaction/FrmLICSevika.aspx |  Error Message : d:\Shubhangi\AnganwadiWebApp\AnganwadiWebApp\Transaction\FrmLICSevika.aspx(290): error CS1061: 'ASP.transaction_frmlicsevika_aspx' does not contain a definition for 'rdbActive_SelectedIndexChanged' and no extension method 'rdbActive_SelectedIndexChanged' accepting a first argument of type 'ASP.transaction_frmlicsevika_aspx' could be found (are you missing a using directive or an assembly reference?)
+05-06-2021 12:58:39 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+05-06-2021 16:19:45 	 Page Name : /Transaction/FrmLICApproveMst.aspx |  Error Message : OracleCommand.CommandText is invalid
+05-06-2021 16:19:45 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+05-06-2021 16:20:37 	 Page Name : /Transaction/FrmLICApproveMst.aspx |  Error Message : OracleCommand.CommandText is invalid
+05-06-2021 16:20:37 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

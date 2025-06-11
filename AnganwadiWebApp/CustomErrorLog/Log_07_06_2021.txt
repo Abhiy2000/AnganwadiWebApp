@@ -1,0 +1,4 @@
+07-06-2021 09:58:02 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03135: connection lost contact
+Process ID: 3196
+Session ID: 206 Serial number: 32123
+07-06-2021 09:58:02 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

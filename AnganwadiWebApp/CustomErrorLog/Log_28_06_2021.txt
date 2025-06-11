@@ -1,0 +1,4 @@
+28-06-2021 17:17:33 	 Page Name : /Transaction/FrmMonthlyAttendenceAuth.aspx |  Error Message : Object reference not set to an instance of an object.
+28-06-2021 17:17:33 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+28-06-2021 17:18:35 	 Page Name : /Transaction/FrmAngWisePaySheetRef.aspx |  Error Message : The file '/Transaction/FrmAngWisePaySheetRef.aspx' does not exist.
+28-06-2021 17:18:35 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

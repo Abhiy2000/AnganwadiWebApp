@@ -1,0 +1,8 @@
+13-05-2021 13:37:49 	 Page Name : /Transaction/FrmLICDPOApproveList.aspx |  Error Message : Unable to cast object of type 'Oracle.DataAccess.Types.OracleDecimal' to type 'System.IConvertible'.
+13-05-2021 13:37:49 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-05-2021 14:03:05 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : Object reference not set to an instance of an object.
+13-05-2021 14:03:05 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-05-2021 15:13:22 	 Page Name : /Transaction/FrmLICDPOApproveList.aspx |  Error Message : Unable to cast object of type 'Oracle.DataAccess.Types.OracleDecimal' to type 'System.IConvertible'.
+13-05-2021 15:13:22 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13-05-2021 15:54:14 	 Page Name : /Transaction/FrmLICDPOApproveList.aspx |  Error Message : Unable to cast object of type 'Oracle.DataAccess.Types.OracleDecimal' to type 'System.IConvertible'.
+13-05-2021 15:54:14 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+10-03-2021 12:41:19 	 Page Name : /master/FrmPromotionMst.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+10-03-2021 12:41:23 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10-03-2021 13:00:12 	 Page Name : /master/FrmPromotionMst.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character to number conversion error
+ORA-06512: at line 1
+10-03-2021 13:00:13 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

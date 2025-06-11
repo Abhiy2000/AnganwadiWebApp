@@ -1,0 +1,8 @@
+03-06-2021 16:38:28 	 Page Name : /Transaction/FrmLICDPOApproveList.aspx |  Error Message : ORA-03135: connection lost contact
+Process ID: 1601
+Session ID: 344 Serial number: 33968
+03-06-2021 16:38:28 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+03-06-2021 16:57:26 	 Page Name : /MstListPages/FrmOrgnisationList.aspx |  Error Message : ORA-03135: connection lost contact
+Process ID: 4600
+Session ID: 330 Serial number: 34925
+03-06-2021 16:57:26 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

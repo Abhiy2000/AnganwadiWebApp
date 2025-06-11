@@ -1,0 +1,39 @@
+12-04-2021 13:00:06 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 13:00:06 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 13:01:51 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 13:01:51 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 13:16:19 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 13:16:19 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 14:21:01 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 14:21:01 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 15:37:24 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 15:37:24 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 15:40:03 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 15:40:03 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 15:45:38 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 15:45:38 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 15:49:33 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 15:49:33 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 15:55:23 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 15:55:24 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 16:05:09 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 16:05:09 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 16:14:28 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 16:14:29 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 16:20:20 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 16:20:20 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12-04-2021 17:38:37 	 Page Name : /Transaction/FrmSevikaMaster.aspx |  Error Message : ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at line 1
+12-04-2021 17:38:37 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------

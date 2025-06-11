@@ -1,0 +1,2 @@
+09-03-2021 16:49:02 	 Page Name : /HomePage/tablegraph.aspx |  Error Message : Could not load file or assembly 'Oracle.DataAccess, Version=2.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342' or one of its dependencies. The system cannot find the file specified.
+09-03-2021 16:49:02 	---------------------------------------------------------------------------------------------------------------------------------------------------------------------
